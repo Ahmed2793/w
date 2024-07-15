@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital-Lock-with-VHDL-state-machine
 
 <!-- TABLE OF CONTENTS -->
@@ -127,3 +128,6 @@ In this project, we successfullty implemented a VHDL solution for digital Lock w
   ### Contact:
 * Mail : mohamedamine.benabdeljelil@insat.u-carthage.tn -- mohamedaminebenjalil@yahoo.fr
 * Linked-in profile: https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/
+=======
+# vhdl
+>>>>>>> origin/main
